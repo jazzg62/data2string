@@ -1,0 +1,13 @@
+{
+  "name": "data2string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "https://github.com/jazzg62",
+  "devDependencies": {
+    "jest": "^29.0.2"
+  }
+}
